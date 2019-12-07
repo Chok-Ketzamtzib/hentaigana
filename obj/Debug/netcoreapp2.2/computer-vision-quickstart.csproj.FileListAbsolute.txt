@@ -1,0 +1,11 @@
+C:\Users\Allen\Documents\Projects\computer-vision-quickstart\bin\Debug\netcoreapp2.2\computer-vision-quickstart.deps.json
+C:\Users\Allen\Documents\Projects\computer-vision-quickstart\bin\Debug\netcoreapp2.2\computer-vision-quickstart.runtimeconfig.json
+C:\Users\Allen\Documents\Projects\computer-vision-quickstart\bin\Debug\netcoreapp2.2\computer-vision-quickstart.runtimeconfig.dev.json
+C:\Users\Allen\Documents\Projects\computer-vision-quickstart\bin\Debug\netcoreapp2.2\computer-vision-quickstart.dll
+C:\Users\Allen\Documents\Projects\computer-vision-quickstart\bin\Debug\netcoreapp2.2\computer-vision-quickstart.pdb
+C:\Users\Allen\Documents\Projects\computer-vision-quickstart\obj\Debug\netcoreapp2.2\computer-vision-quickstart.csprojAssemblyReference.cache
+C:\Users\Allen\Documents\Projects\computer-vision-quickstart\obj\Debug\netcoreapp2.2\computer-vision-quickstart.csproj.CoreCompileInputs.cache
+C:\Users\Allen\Documents\Projects\computer-vision-quickstart\obj\Debug\netcoreapp2.2\computer-vision-quickstart.AssemblyInfoInputs.cache
+C:\Users\Allen\Documents\Projects\computer-vision-quickstart\obj\Debug\netcoreapp2.2\computer-vision-quickstart.AssemblyInfo.cs
+C:\Users\Allen\Documents\Projects\computer-vision-quickstart\obj\Debug\netcoreapp2.2\computer-vision-quickstart.dll
+C:\Users\Allen\Documents\Projects\computer-vision-quickstart\obj\Debug\netcoreapp2.2\computer-vision-quickstart.pdb
