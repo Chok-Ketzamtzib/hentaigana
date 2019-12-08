@@ -5,7 +5,7 @@ $(document).ready(function() {
             
             reader.onload = function(e) {
                 $('#uploaded-image').attr('src', e.target.result);
-                $('#id-text').text('Your file: ' + e.target.text);
+                $('#id-text').text('Here will be displayed the analysis.');
             }
             
             reader.readAsDataURL(input.files[0]);
