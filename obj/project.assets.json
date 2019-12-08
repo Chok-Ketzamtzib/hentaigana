@@ -5069,11 +5069,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Allen\\Documents\\Projects\\computer-vision-quickstart\\computer-vision-quickstart.csproj",
+      "projectUniqueName": "C:\\Users\\Allen\\Documents\\Projects\\hentaigana\\computer-vision-quickstart.csproj",
       "projectName": "computer-vision-quickstart",
-      "projectPath": "C:\\Users\\Allen\\Documents\\Projects\\computer-vision-quickstart\\computer-vision-quickstart.csproj",
+      "projectPath": "C:\\Users\\Allen\\Documents\\Projects\\hentaigana\\computer-vision-quickstart.csproj",
       "packagesPath": "C:\\Users\\Allen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Allen\\Documents\\Projects\\computer-vision-quickstart\\obj\\",
+      "outputPath": "C:\\Users\\Allen\\Documents\\Projects\\hentaigana\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
