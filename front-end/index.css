@@ -1,0 +1,67 @@
+html {
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: darkblue;
+    margin: -10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+div.image-card {
+    display: inline-block;
+    border: 3px solid grey;
+    border-radius: 10px;
+    background-color: lightblue;
+    padding: 10px;
+    margin: 25px;
+}
+
+div.image-card img {
+    width: 350px;
+    border-radius: 10px;
+}
+
+div.add-card {
+    display: none;/*inline-block;*/
+    border: 3px solid grey;
+    border-radius: 50%;
+    padding: 0;
+    width: 30px;
+    height: 30px;
+    font-size: 30px;
+    background-color: lightblue;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: auto;
+}
+
+div.add-card h2 {
+    margin: -10px;
+    padding: 0;
+}
+
+div.add-card:hover {
+    cursor: pointer;
+    width: 35px;
+    height: 35px;
+    font-size: 35px;
+}
+
+div.add-card:hover h2 {
+    margin: -12px;
+}
+
+div.add-card:active {
+    width: 45px;
+    height: 45px;
+    font-size: 45px;
+    border-radius: 40%;
+}
+
+div.add-card:active h2 {
+    margin: -15px;
+}
